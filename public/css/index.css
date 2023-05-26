@@ -1,0 +1,53 @@
+:root {
+    background: white;                          
+}
+
+* {
+    color: black;
+}
+
+h1 {
+    background: blue;
+}
+
+.green {
+    color: green;
+}
+
+#blue {
+    color: blue;
+}
+
+div div div div {
+    background: green;
+}
+
+div div div p {
+    background: red;
+}
+
+.brown {
+    background: brown;
+    color: white;
+}
+
+ul > li {
+    background: red;
+}
+
+.header-button+span {
+    background: red;
+}
+
+.susid~p {
+    background: blue;
+    color: white;
+}
+
+.salo {
+    background: yellow;
+}
+
+#bread {
+    background: yellow;
+}
